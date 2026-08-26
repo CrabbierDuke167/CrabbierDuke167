@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-> **Loving the Game** &nbsp;&middot;&nbsp; **Genius** &nbsp;&middot;&nbsp; **Billionaire (Not Yet)** &nbsp;&middot;&nbsp; **Philanthropist** &nbsp;&middot;&nbsp; **Rookie**
+> **Loving the Game** &nbsp;
 
 <br />
 
