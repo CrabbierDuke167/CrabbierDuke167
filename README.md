@@ -71,7 +71,7 @@
 </p>
 
 <p align="center">
-  <sub>tiny music-focused Small Language Model built from scratch in Python</sub>
+  <sub>Tiny music-focused Small Language Model built from scratch in Python</sub>
 </p>
 
 <br />
