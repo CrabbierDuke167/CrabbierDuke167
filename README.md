@@ -15,7 +15,9 @@
 <h2>Tech Stack</h2>
 
 <p align="center">
-  <!-- Languages & Core -->
+
+  <sub><b>LANGUAGES & CORE</b></sub>
+  <br />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -25,7 +27,8 @@
 
   <br /><br />
 
-  <!-- Frontend & UI -->
+  <sub><b>FRONTEND & UI</b></sub>
+  <br />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
@@ -33,7 +36,8 @@
 
   <br /><br />
 
-  <!-- Backend & Database -->
+  <sub><b>BACKEND & DATABASE</b></sub>
+  <br />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
@@ -41,7 +45,8 @@
 
   <br /><br />
 
-  <!-- Deployment & Tools -->
+  <sub><b>DEPLOYMENT & TOOLS</b></sub>
+  <br />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -49,10 +54,12 @@
 
   <br /><br />
 
-  <!-- Design & Data -->
+  <sub><b>DESIGN & DATA</b></sub>
+  <br />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+
 </p>
 
 <br />
