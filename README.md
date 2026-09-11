@@ -45,7 +45,7 @@
 <br />
 
 
-<h2>GitHub // Activity</h2>
+<h2>GitHub // Stats</h2>
 
 <p align="center">
   <img
@@ -57,13 +57,7 @@
 <br />
 
 ---
-
 <br />
-
-<p align="center">
-  <sub>Built from scratch · Updated automatically</sub>
-</p>
-
 
 <h2>Currently Building</h2>
 
@@ -82,6 +76,7 @@
 
 <br />
 
+---
 
 
 <picture>
