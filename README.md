@@ -8,9 +8,11 @@
 
 <h2>Tech Stack</h2>
 
+
 <p align="center">
   <!-- Languages & Core -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -42,14 +44,14 @@
 
 <br />
 
-<h2>GitHub Stats</h2>
+
+<h2>GitHub // Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=CrabbierDuke167&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=CrabbierDuke167&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CrabbierDuke167&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img
+    src="https://crabbierduke167-card.netlify.app/card.svg"
+    alt="GitHub Activity"
+  />
 </p>
 
 <br />
@@ -59,10 +61,28 @@
 <br />
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=CrabbierDuke167&icon=1&color=0" alt="Profile Views" />
+  <sub>Built from scratch · Updated automatically</sub>
+</p>
+
+
+<h2>Currently Building</h2>
+
+<p align="center">
+  <a href="https://github.com/CrabbierDuke167/TinasheSLM">
+    <img
+      src="https://img.shields.io/badge/TinasheSLM-v0.0.1-d8c84a?style=for-the-badge&labelColor=141414"
+      alt="Currently Building: TinasheSLM"
+    />
   </a>
 </p>
+
+<p align="center">
+  <sub>tiny music-focused Small Language Model built from scratch in Python</sub>
+</p>
+
+<br />
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrabbierDuke167/CrabbierDuke167/output/snake-purple.svg">
