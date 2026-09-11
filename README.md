@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h2>About Me</h2>
@@ -6,8 +7,12 @@
 
 <br />
 
-<h2>Tech Stack</h2>
+<img src="./assets/gif1.gif" alt="Justin Bieber GIF" width="480" />
 
+<br />
+<br />
+
+<h2>Tech Stack</h2>
 
 <p align="center">
   <!-- Languages & Core -->
@@ -17,25 +22,33 @@
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br />
+
+  <br /><br />
+
   <!-- Frontend & UI -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt" />
-  <br />
+
+  <br /><br />
+
   <!-- Backend & Database -->
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br />
+
+  <br /><br />
+
   <!-- Deployment & Tools -->
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <br />
+
+  <br /><br />
+
   <!-- Design & Data -->
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" alt="Aseprite" />
@@ -43,7 +56,7 @@
 </p>
 
 <br />
-
+<br />
 
 <h2>GitHub // Stats</h2>
 
@@ -56,7 +69,8 @@
 
 <br />
 
----
+<hr />
+
 <br />
 
 <h2>Currently Building</h2>
@@ -76,8 +90,9 @@
 
 <br />
 
----
+<hr />
 
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CrabbierDuke167/CrabbierDuke167/output/snake-purple.svg">
@@ -86,3 +101,4 @@
 </picture>
 
 </div>
+
