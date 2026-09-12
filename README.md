@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h2>About Me</h2>
+<h2>About Me ☁︎⋅</h2>
 
 **Loving the Game** &nbsp;
 
