@@ -55,16 +55,7 @@
 </p>
 
 <br />
-<br />
 
-<h2>GitHub // Stats</h2>
-
-<p align="center">
-  <img
-    src="https://crabbierduke167-card.netlify.app/card.svg"
-    alt="GitHub Activity"
-  />
-</p>
 
 <br />
 
